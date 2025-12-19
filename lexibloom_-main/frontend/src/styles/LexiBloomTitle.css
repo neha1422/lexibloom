@@ -1,0 +1,30 @@
+.typewriter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+  
+  .typewriter-text {
+    font-family: 'Arial', sans-serif; /* Dyslexia-friendly font */
+    font-size: 48px;
+    font-weight: 900;
+    color: #2c2c2c;
+    letter-spacing: 2px;
+  }
+  
+  .cursor {
+    display: inline-block;
+    width: 1ch;
+    animation: blink 0.7s steps(1) infinite;
+    color: #2c2c2c;
+  }
+  
+  @keyframes blink {
+    0%, 50% {
+      opacity: 1;
+    }
+    51%, 100% {
+      opacity: 0;
+    }
+  }
