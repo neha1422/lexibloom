@@ -104,30 +104,11 @@ The system focuses on **human-centered and explainable ML**, prioritizing usabil
 
 ---
 
-## 📜 How to Run Locally
 
-Clone the repository:
-```bash
-
-git clone https://github.com/manny137/LexiBloom_1
-🤝 Contributing
-
-Contributions are welcome 🌸
-
-Fork the repository
-
-Create a new branch (feature-xyz)
-
-Commit your changes
-
-Open a pull request
-
-📧 Contact
-
-For queries or collaborations, reach out to:
+## 📧 Contact-For queries or collaborations, reach out to:
 
 Team LexiBloom
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub to support the mission of building ML-powered accessible technology.
