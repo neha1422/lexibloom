@@ -1,42 +1,43 @@
-# 🌸 LexiBloom – Blooming Accessibility with AI
+🌸 LexiBloom – Blooming Accessibility with AI
 
-LexiBloom is an AI-powered accessibility platform designed to empower individuals with Dyslexia, ADHD, and Low Vision by making digital reading and interaction more inclusive. Our mission is to ensure that accessibility is not a privilege but a right, enabling everyone to learn, create, and communicate without barriers.
+LexiBloom is an AI and machine learning–powered accessibility platform designed to empower individuals with Dyslexia, ADHD, and Low Vision by making digital reading and interaction more inclusive. The platform leverages NLP, adaptive learning, and computer vision techniques to personalize accessibility support. Its mission is to ensure that accessibility is not a privilege but a right, enabling everyone to learn, create, and communicate without barriers.
 
-# 🚀 Features
-
+🚀 Features
 ✨ Multi-Mode Accessibility
 
-Dyslexia Mode → Dyslexia-friendly fonts, structured reading, and color contrast adjustments.
+Dyslexia Mode → NLP-based text restructuring, dyslexia-friendly fonts, structured reading, and optimized color contrast.
 
-ADHD Mode → Distraction-free interface, focus timers, and reading assistance.
+ADHD Mode → ML-assisted distraction reduction, focus-oriented content presentation, and reading assistance.
 
-Low Vision Mode → Scalable typography, high-contrast layouts, and screen-reader integration.
+Low Vision Mode → Adaptive typography scaling, ML-guided high-contrast layouts, and screen-reader integration.
 
 🧠 AI-Driven Personalization
 
-Adaptive UI that learns user preferences for font, color, and layout.
+Machine learning models adapt UI elements based on user interaction patterns and preferences.
 
-Smart text restructuring to improve readability.
+NLP-driven smart text restructuring to improve readability while preserving semantic meaning.
 
 👀 Eye-Controlled Keyboard
 
-Enables typing through gaze tracking, giving individuals with limited motor control the ability to express themselves.
+Computer vision–based gaze tracking using OpenCV enables hands-free typing.
+
+ML-assisted eye-movement detection supports users with limited motor control.
 
 🌐 Cross-Platform
 
-Optimized for web and mobile for seamless accessibility.
+Optimized for web and mobile platforms with consistent ML-driven accessibility behavior.
 
 🏗️ Implementation Plan
 
 LexiBloom is being developed in three structured phases:
 
-Prototype Phase → Core accessibility modes (Dyslexia, ADHD, Low Vision).
+Prototype Phase → Core accessibility modes using NLP-based text processing.
 
-Integration Phase → AI-driven personalization engine + eye-controlled virtual keyboard.
+Integration Phase → Machine learning personalization engine and computer vision–based eye-controlled virtual keyboard.
 
-Deployment Phase → Web/mobile optimization, user testing, and scalable release.
+Deployment Phase → Model refinement through user testing, performance optimization, and scalable release.
 
-# 📂 Tech Stack
+📂 Tech Stack
 
 Frontend: React.js, Tailwind CSS
 
@@ -44,32 +45,40 @@ Backend: Node.js / Express
 
 Database: MongoDB
 
-AI/ML: Python (NLP for text restructuring, personalization engine)
+AI/ML: Python (NLP models for text restructuring, personalization algorithms, OpenCV for eye-tracking)
 
-Other Tools: Web Speech API, OpenCV (for eye-tracking prototype)
+Other Tools: Web Speech API
 
-# 🌍 Impact
+🌍 Impact
 
-Empowers neurodiverse learners and professionals.
+Empowers neurodiverse learners and professionals through ML-driven accessibility.
 
-Reduces digital learning inequality.
+Reduces digital learning inequality using adaptive AI systems.
 
-Demonstrates how Humans + AI can collaborate for inclusion.
+Demonstrates how Human-centered design and Machine Learning can collaborate for inclusive technology.
 
 📜 How to Run Locally
-# Clone the repository
+
+Clone the repository
+
 git clone https://github.com/manny137/LexiBloom_1
 
-# Navigate to project directory
+
+Navigate to project directory
+
 cd lexibloom
 
-# Install dependencies
+
+Install dependencies
+
 npm install
 
-# Run development server
+
+Run development server
+
 npm start
 
-# 🤝 Contributing
+🤝 Contributing
 
 We welcome contributions! 🌸
 
@@ -81,12 +90,12 @@ Commit your changes
 
 Open a pull request
 
-# 📧 Contact
+📧 Contact
 
 For queries or collaborations, reach out to us:
 
 Team LexiBloom
 
-# ⭐ Support
+⭐ Support
 
-If you like this project, consider giving it a star ⭐ on GitHub to support our mission of making technology more accessible.
+If you like this project, consider giving it a star ⭐ on GitHub to support our mission of building ML-powered accessible technology.
