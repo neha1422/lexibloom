@@ -1,114 +1,160 @@
-# 🌸 LexiBloom – ML-Powered Accessibility Platform
+# 🧠 LexiBloom
 
-LexiBloom is a **machine learning–driven accessibility platform** designed to improve digital reading and interaction for individuals with **Dyslexia, ADHD, and Low Vision**.  
-The platform uses **NLP, adaptive personalization, and computer vision** to make accessibility intelligent, dynamic, and user-centric.
+### AI-Powered Accessibility Platform for Dyslexic, ADHD & Low-Vision Learners
 
----
+**React • Node.js • Express • MongoDB • OpenCV • NLP • Whisper • OCR**
 
-## 🚀 Features
-
-### ✨ Multi-Mode Accessibility
-- **Dyslexia Mode**  
-  NLP-based text restructuring, dyslexia-friendly fonts, structured reading, and optimized color contrast.
-
-- **ADHD Mode**  
-  ML-assisted distraction reduction, focus-oriented content presentation, and reading assistance.
-
-- **Low Vision Mode**  
-  Adaptive typography scaling, ML-guided high-contrast layouts, and screen-reader integration.
+🌐 **Live Demo:** https://lexibloom.vercel.app/
 
 ---
 
-### 🧠 AI-Driven Personalization
-- Machine learning models adapt UI elements based on user interaction patterns.
-- Smart NLP-based text restructuring while preserving semantic meaning.
-- Personalized font, spacing, color, and layout recommendations.
+## 🌟 Overview
+
+LexiBloom is an AI-powered accessibility platform that enhances digital learning for individuals with **Dyslexia**, **ADHD**, and **Low Vision** through adaptive interfaces, intelligent text processing, computer vision, and assistive technologies.
+
+The platform combines **Natural Language Processing**, **Computer Vision**, **Speech Technologies**, and **Personalized Accessibility** to deliver an inclusive learning experience tailored to individual user needs.
 
 ---
+
+# 🚀 Core Features
+
+### 📖 Intelligent Reading Assistant
+
+- AI-assisted text restructuring
+- Dyslexia-friendly typography
+- Adjustable layouts & color themes
+- OCR-based text extraction
+
+### 🧠 Personalized Accessibility
+
+- Adaptive UI personalization
+- Intelligent font & spacing recommendations
+- Focus-oriented reading modes
+- Custom accessibility profiles
+
+### 🎙️ Speech Intelligence
+
+- Whisper-powered Speech-to-Text
+- Text-to-Speech narration
+- Voice-assisted interaction
 
 ### 👀 Eye-Controlled Virtual Keyboard
-- Computer vision–based gaze tracking using OpenCV.
-- Enables hands-free typing for users with limited motor control.
-- Prototype focuses on accurate eye-movement detection and interaction mapping.
+
+- Computer Vision using OpenCV
+- Eye-gaze interaction
+- Hands-free typing prototype
+
+### 🌍 Inclusive Learning
+
+- Dyslexia Mode
+- ADHD Focus Mode
+- Low Vision Mode
+- Responsive cross-platform interface
 
 ---
 
-### 🌐 Cross-Platform
-- Optimized for both web and mobile platforms.
-- Consistent ML-driven accessibility behavior across devices.
+# 🏗️ System Architecture
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/9452f812-b32a-474b-a679-69cdbf378c0c" />
 
 ---
 
-## 🧪 Machine Learning Overview
+# 🔄 Accessibility Workflow
 
-LexiBloom applies machine learning in the following areas:
+```text
+Upload Document / Image
+          │
+          ▼
+OCR Text Extraction
+          │
+          ▼
+AI Text Simplification
+          │
+          ▼
+Personalization Engine
+          │
+     ┌────┴────┐
+     ▼         ▼
 
-- **Natural Language Processing (NLP):**  
-  Text simplification and restructuring for improved readability.
+Speech Output  Accessible UI
 
-- **Personalization Algorithms:**  
-  Adaptive UI behavior based on user preferences and interaction data.
+          │
+          ▼
 
-- **Computer Vision:**  
-  Eye-tracking prototype for gaze-based input using OpenCV.
-
-The system focuses on **human-centered and explainable ML**, prioritizing usability and inclusion.
-
----
-
-## 🏗️ Implementation Plan
-
-1. **Prototype Phase**  
-   - Core accessibility modes  
-   - NLP-based text preprocessing
-
-2. **Integration Phase**  
-   - ML personalization engine  
-   - Eye-controlled virtual keyboard
-
-3. **Deployment Phase**  
-   - Model refinement through user testing  
-   - Performance optimization and scalability
+ Enhanced Learning Experience
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚙️ Technology Stack
 
-**Frontend**
-- React.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-
-**Database**
-- MongoDB
-
-**AI / ML**
-- Python
-- NLP models for text restructuring
-- Personalization algorithms
-- OpenCV (eye-tracking prototype)
-
-**Other Tools**
-- Web Speech API
+| Layer | Technologies |
+|--------|--------------|
+| Frontend | React, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| AI / ML | NLP, Whisper, OCR, OpenCV |
+| Accessibility | Text-to-Speech, Adaptive UI |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-## 🌍 Impact
+# 📂 Project Structure
 
-- Empowers neurodiverse learners and professionals through ML-driven accessibility.
-- Reduces digital learning inequality using adaptive AI systems.
-- Demonstrates how **Machine Learning + Human-Centered Design** can create inclusive technology.
+```text
+LexiBloom
+│
+├── frontend/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── hooks/
+│
+├── backend/
+│
+├── ai/
+│
+├── database/
+│
+└── documentation/
+```
 
 ---
 
+# 🚀 Local Setup
 
-## 📧 Contact-For queries or collaborations, reach out to:
+```bash
+git clone https://github.com/neha1422/lexibloom.git
 
-Team LexiBloom
+cd lexibloom
 
-## ⭐ Support
+npm install
 
-If you like this project, consider giving it a ⭐ on GitHub to support the mission of building ML-powered accessible technology.
+npm run dev
+```
+
+---
+
+# 🎯 Key Highlights
+
+- AI-powered accessibility platform
+- NLP-based text restructuring
+- OCR-enabled document reading
+- Whisper Speech Recognition
+- Computer Vision eye-tracking
+- Personalized accessibility engine
+- Responsive full-stack architecture
+
+---
+
+# 🔮 Future Enhancements
+
+- Real-time collaborative learning
+- Emotion-aware AI assistance
+- Mobile application
+- Offline accessibility support
+- Adaptive learning analytics
+
+---
+
+## ⭐ LexiBloom demonstrates how Artificial Intelligence, Computer Vision, and Human-Centered Design can make digital learning more accessible and inclusive.
